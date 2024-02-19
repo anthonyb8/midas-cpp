@@ -1,0 +1,78 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Build folders
+bin/
+obj/
+build/
+Debug/
+Release/
+x64/
+x86/
+builds/
+*.log
+*.vscode/
+*.idea/
+*.swp
+*~
+
+# Dependency directories
+deps/
+
+# Auto-generated files
+*.user
+*.suo
+*.userprefs
+*.usertasks
+*.sln.docstates
+
+# Other files and folders
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Ignore specific files or directories
+config.json
